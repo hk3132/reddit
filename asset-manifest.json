@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reddit/static/css/main.9faaaca5.chunk.css",
+    "main.js": "/reddit/static/js/main.69b16cc1.chunk.js",
+    "main.js.map": "/reddit/static/js/main.69b16cc1.chunk.js.map",
+    "runtime-main.js": "/reddit/static/js/runtime-main.c3e7a993.js",
+    "runtime-main.js.map": "/reddit/static/js/runtime-main.c3e7a993.js.map",
+    "static/js/2.88046f29.chunk.js": "/reddit/static/js/2.88046f29.chunk.js",
+    "static/js/2.88046f29.chunk.js.map": "/reddit/static/js/2.88046f29.chunk.js.map",
+    "index.html": "/reddit/index.html",
+    "precache-manifest.282c316e4e81690c271b49dd69a008bb.js": "/reddit/precache-manifest.282c316e4e81690c271b49dd69a008bb.js",
+    "service-worker.js": "/reddit/service-worker.js",
+    "static/css/main.9faaaca5.chunk.css.map": "/reddit/static/css/main.9faaaca5.chunk.css.map",
+    "static/media/Screenshot.png": "/reddit/static/media/Screenshot.82b16a76.png",
+    "static/media/RightContent.css": "/reddit/static/media/Screenshot3.d2b20a2f.png",
+    "static/media/Screenshot4.png": "/reddit/static/media/Screenshot4.2517b39d.png",
+    "static/media/ah.gif": "/reddit/static/media/ah.853546ca.gif",
+    "static/media/boris.jpg": "/reddit/static/media/boris.49e7623e.jpg",
+    "static/media/cat.gif": "/reddit/static/media/cat.7ea6f40a.gif",
+    "static/media/comment.png": "/reddit/static/media/comment.916fdda4.png",
+    "static/media/ducks.jpg": "/reddit/static/media/ducks.89d4b902.jpg",
+    "static/media/earth.gif": "/reddit/static/media/earth.0941706a.gif",
+    "static/media/finger.gif": "/reddit/static/media/finger.dbae20aa.gif",
+    "static/media/image.png": "/reddit/static/media/image.2efe3cac.png",
+    "static/media/jesus.jpg": "/reddit/static/media/jesus.0382833f.jpg",
+    "static/media/landlord.jpg": "/reddit/static/media/landlord.64ac67fc.jpg",
+    "static/media/library.jpg": "/reddit/static/media/library.22d5d6bc.jpg",
+    "static/media/link.png": "/reddit/static/media/link.72f75144.png",
+    "static/media/news1.jpg": "/reddit/static/media/news1.8a83628b.jpg",
+    "static/media/news2.jpg": "/reddit/static/media/news2.7759e30e.jpg",
+    "static/media/news3.jpg": "/reddit/static/media/news3.99574e7b.jpg",
+    "static/media/news4.jpg": "/reddit/static/media/news4.98be27ea.jpg",
+    "static/media/save.png": "/reddit/static/media/save.f8d74537.png",
+    "static/media/share.png": "/reddit/static/media/share.080bee95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e7a993.js",
+    "static/js/2.88046f29.chunk.js",
+    "static/css/main.9faaaca5.chunk.css",
+    "static/js/main.69b16cc1.chunk.js"
+  ]
+}
